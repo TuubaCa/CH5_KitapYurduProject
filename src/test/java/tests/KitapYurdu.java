@@ -51,5 +51,7 @@ public class KitapYurdu {
         allPage.productDetailsPage().sepetCountVerify("0");
 
         Driver.closeDriver();
+
     }
+
 }
